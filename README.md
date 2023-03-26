@@ -124,5 +124,17 @@ int main()
 }
 
 
+//Write a program to print all the ASCII values and their equivalent characters of 26 alphabets using a for loop ...
+
+#include<iostream>
+using namespace std;
+int main()
+{ char ch;
+    for(ch='a';ch<='z';ch++){
+        cout<<ch__ <<int(ch)<<endl;
+    }
+}
+
+
 
 
